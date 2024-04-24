@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+D:\C\ImageViewer\ImageView\ImageView\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\C\ImageViewer\ImageView\x64\Debug\ImageView.exe : fatal error LNK1120: 1 unresolved externals
